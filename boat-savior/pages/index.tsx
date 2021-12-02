@@ -38,7 +38,7 @@ const Home: NextPage = () => {
             className={styles.card}
           >
             <h2>Examples &rarr;</h2>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <p>Discover fhgdsujfdgs and deploy boilerplate example Next.js projects.</p>
           </a>
 
           <a
