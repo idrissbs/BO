@@ -1,6 +1,6 @@
 {
    "private": true,
    "name": "example-monorepo",
-   "workspaces": ["boat-savior"],
+   "workspaces": ["boat-savior", "std"],
    "scripts": {}
 }
